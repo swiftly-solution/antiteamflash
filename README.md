@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/swiftly-solution/swiftly_antiteamflash">
+  <a href="https://github.com/swiftly-solution/antiteamflash">
     <img src="https://cdn.swiftlycs2.net/swiftly-logo.png" alt="SwiftlyLogo" width="80" height="80">
   </a>
 
@@ -13,17 +13,17 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/swiftly-solution/swiftly_antiteamflash/total" alt="Downloads"> 
-  <img src="https://img.shields.io/github/contributors/swiftly-solution/swiftly_antiteamflash?color=dark-green" alt="Contributors">
-  <img src="https://img.shields.io/github/issues/swiftly-solution/swiftly_antiteamflash" alt="Issues">
-  <img src="https://img.shields.io/github/license/swiftly-solution/swiftly_antiteamflash" alt="License">
+  <img src="https://img.shields.io/github/downloads/swiftly-solution/antiteamflash/total" alt="Downloads"> 
+  <img src="https://img.shields.io/github/contributors/swiftly-solution/antiteamflash?color=dark-green" alt="Contributors">
+  <img src="https://img.shields.io/github/issues/swiftly-solution/antiteamflash" alt="Issues">
+  <img src="https://img.shields.io/github/license/swiftly-solution/antiteamflash" alt="License">
 </p>
 
 ---
 
 ### Installation 👀
 
-1. Download the newest [release](https://github.com/swiftly-solution/swiftly_antiflash/releases).
+1. Download the newest [release](https://github.com/swiftly-solution/antiflash/releases).
 2. Everything is drag & drop, so I think you can do it!
 
 ### Configuring the plugin 🧐
